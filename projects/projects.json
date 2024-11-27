@@ -1,4 +1,15 @@
-[{
+[
+     {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
+    }
+  },
+    {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
     "image": "portfolio1",
